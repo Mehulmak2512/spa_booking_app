@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "787942514303",
+    "project_id": "foxyspa-222024",
+    "storage_bucket": "foxyspa-222024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787942514303:android:2949f5f6baf320a894e94a",
+        "android_client_info": {
+          "package_name": "com.example.spa_booking_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3EZMb01W2eb4lQSoF46mS4KC8fc2wIvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
